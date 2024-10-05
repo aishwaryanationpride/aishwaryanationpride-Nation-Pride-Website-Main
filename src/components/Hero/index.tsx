@@ -16,7 +16,7 @@ const Hero = () => {
                   Your Digital Transformation with Innovative Web Solutions
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl roll-in-left">
-                  At Nation Pride IT Solutions, we don't just create websites –
+                  At Nation Pride IT Solutions, we don&apos;t just create websites –
                   we craft digital experiences. Our team of dedicated developers
                   and designers is passionate about transforming your vision
                   into reality,
